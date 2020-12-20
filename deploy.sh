@@ -1,5 +1,5 @@
 git status
 git add .
-git commit -a -m "commit cod golang"
+git commit -a -m "commit code golang"
 git push 
 git status
